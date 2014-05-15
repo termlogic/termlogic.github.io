@@ -9,6 +9,11 @@ We expect to have the following documents out soon:
 * Functional services manual
 * Other documentation like test reports and code quality metrics will also be made available.
 
-Please get in touch with us if Termlogic sounds interesting and you'd like to know more. You can find a brief introduction at :
+Please get in touch with us if Termlogic sounds interesting and you'd like to know more. 
+
+The main documentation will be available at : http://termlogic.github.io/
+
+
+You can find a brief introduction at :
 
 http://noesisinformatica.com/product/termlogic
