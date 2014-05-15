@@ -1,6 +1,18 @@
 Termlogic Documentation
 =======================
 
+You can find a brief introduction at :
+
+http://noesisinformatica.com/product/termlogic
+
+Code will be available at: 
+
+https://github.com/noesisinformatica/termlogic
+
+Documentation will be available at : 
+
+http://termlogic.github.io/
+
 We are in the process of moving Termlogic documentation from its current private repo to this public Github repo.
 
 We expect to have the following documents out soon:
@@ -11,9 +23,3 @@ We expect to have the following documents out soon:
 
 Please get in touch with us if Termlogic sounds interesting and you'd like to know more. 
 
-The main documentation will be available at : http://termlogic.github.io/
-
-
-You can find a brief introduction at :
-
-http://noesisinformatica.com/product/termlogic
